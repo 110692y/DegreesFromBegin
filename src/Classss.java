@@ -1,17 +1,12 @@
-import java.io.BufferedReader;
+﻿import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 /*Даны целые числа h, m, s (0 < h ≤ 23, 0 ≤ m ≤ 59, 0 ≤ s ≤ 59), указывающие
 момент времени: "h часов, m минут, s секунд". Определить угол (в градусах)
 между положением часовой стрелки в начале суток и в указанный момент
-<<<<<<< HEAD
 времени. 
 New Line In Description
-Another Line In Description
-THIRD LINE!!
-=======
-времени.
->>>>>>> parent of 47b5706... new line in description
+and rollback!!
 //1sec = 180/6/60/60 */
 public class Classss {
     public static void main(String[] args) throws IOException {
