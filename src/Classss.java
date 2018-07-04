@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 между положением часовой стрелки в начале суток и в указанный момент
 времени. 
 New Line In Description
+Another Line In Description
 //1sec = 180/6/60/60 */
 public class Classss {
     public static void main(String[] args) throws IOException {
