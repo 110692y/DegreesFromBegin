@@ -1,4 +1,4 @@
-import java.io.BufferedReader;
+﻿import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 /*Даны целые числа h, m, s (0 < h ≤ 23, 0 ≤ m ≤ 59, 0 ≤ s ≤ 59), указывающие
@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 между положением часовой стрелки в начале суток и в указанный момент
 времени. 
 New Line In Description
+and rollback
 //1sec = 180/6/60/60 */
 public class Classss {
     public static void main(String[] args) throws IOException {
