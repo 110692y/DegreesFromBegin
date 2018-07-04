@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 времени. 
 New Line In Description
 Another Line In Description
-THIRD LINE!!
+THIRD LINE!!!
 //1sec = 180/6/60/60 */
 public class Classss {
     public static void main(String[] args) throws IOException {
